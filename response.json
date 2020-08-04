@@ -1,817 +1,836 @@
 {
-kind: "books#volumes",
-totalItems: 503,
-items: [
-{
-kind: "books#volume",
-id: "oxg8_i9dVakC",
-etag: "JCvT/osMNGw",
-selfLink: "https://www.googleapis.com/books/v1/volumes/oxg8_i9dVakC",
-volumeInfo: {
-title: "HTTP Developer's Handbook",
-authors: [
-"Chris Shiflett"
-],
-publisher: "Sams Publishing",
-publishedDate: "2003",
-description: "Though it is the Internet's most dominant protocol, there is an unmet need for an authoritative guide that delves into the details of HTTP. This guide does just that, and understanding HTTP helps programmers creating PHP, ColdFusion, or JSP Web applications to develop and debug complex programs.",
-industryIdentifiers: [
-{
-type: "ISBN_10",
-identifier: "0672324547"
-},
-{
-type: "ISBN_13",
-identifier: "9780672324543"
-}
-],
-readingModes: {
-text: false,
-image: true
-},
-pageCount: 282,
-printType: "BOOK",
-categories: [
-"Computers"
-],
-averageRating: 3.5,
-ratingsCount: 6,
-maturityRating: "NOT_MATURE",
-allowAnonLogging: false,
-contentVersion: "0.0.2.0.preview.1",
-panelizationSummary: {
-containsEpubBubbles: false,
-containsImageBubbles: false
-},
-imageLinks: {
-smallThumbnail: "http://books.google.com/books/content?id=oxg8_i9dVakC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-thumbnail: "http://books.google.com/books/content?id=oxg8_i9dVakC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-},
-language: "en",
-previewLink: "http://books.google.ae/books?id=oxg8_i9dVakC&pg=PA221&dq=%7Bhttp%7D&hl=&cd=1&source=gbs_api",
-infoLink: "http://books.google.ae/books?id=oxg8_i9dVakC&dq=%7Bhttp%7D&hl=&source=gbs_api",
-canonicalVolumeLink: "https://books.google.com/books/about/HTTP_Developer_s_Handbook.html?hl=&id=oxg8_i9dVakC"
-},
-saleInfo: {
-country: "AE",
-saleability: "NOT_FOR_SALE",
-isEbook: false
-},
-accessInfo: {
-country: "AE",
-viewability: "PARTIAL",
-embeddable: true,
-publicDomain: false,
-textToSpeechPermission: "ALLOWED_FOR_ACCESSIBILITY",
-epub: {
-isAvailable: false
-},
-pdf: {
-isAvailable: false
-},
-webReaderLink: "http://play.google.com/books/reader?id=oxg8_i9dVakC&hl=&printsec=frontcover&source=gbs_api",
-accessViewStatus: "SAMPLE",
-quoteSharingAllowed: false
-},
-searchInfo: {
-textSnippet: "A method of Inband indicates that the key was previously included in a Key-<br> Assign <b>HTTP</b> header, whereas a method of outband indicates that the method of <br> key exchange lies outside of the scope of Secure <b>HTTP</b>. This flexibility would be&nbsp;..."
-}
-},
-{
-kind: "books#volume",
-id: "qEoOl9bcV_cC",
-etag: "2CaAdlIt9qQ",
-selfLink: "https://www.googleapis.com/books/v1/volumes/qEoOl9bcV_cC",
-volumeInfo: {
-title: "HTTP: The Definitive Guide",
-subtitle: "The Definitive Guide",
-authors: [
-"David Gourley",
-"Brian Totty",
-"Marjorie Sayer",
-"Anshu Aggarwal",
-"Sailu Reddy"
-],
-publisher: ""O'Reilly Media, Inc."",
-publishedDate: "2002-09-27",
-description: "Behind every web transaction lies the Hypertext Transfer Protocol (HTTP) --- the language of web browsers and servers, of portals and search engines, of e-commerce and web services. Understanding HTTP is essential for practically all web-based programming, design, analysis, and administration.While the basics of HTTP are elegantly simple, the protocol's advanced features are notoriously confusing, because they knit together complex technologies and terminology from many disciplines. This book clearly explains HTTP and these interrelated core technologies, in twenty-one logically organized chapters, backed up by hundreds of detailed illustrations and examples, and convenient reference appendices. HTTP: The Definitive Guide explains everything people need to use HTTP efficiently -- including the "black arts" and "tricks of the trade" -- in a concise and readable manner.In addition to explaining the basic HTTP features, syntax and guidelines, this book clarifies related, but often misunderstood topics, such as: TCP connection management, web proxy and cache architectures, web robots and robots.txt files, Basic and Digest authentication, secure HTTP transactions, entity body processing, internationalized content, and traffic redirection.Many technical professionals will benefit from this book. Internet architects and developers who need to design and develop software, IT professionals who need to understand Internet architectural components and interactions, multimedia designers who need to publish and host multimedia, performance engineers who need to optimize web performance, technical marketing professionals who need a clear picture of core web architectures and protocols, as well as untold numbers of students and hobbyists will all benefit from the knowledge packed in this volume.There are many books that explain how to use the Web, but this is the one that explains how the Web works. Written by experts with years of design and implementation experience, this book is the definitive technical bible that describes the "why" and the "how" of HTTP and web core technologies. HTTP: The Definitive Guide is an essential reference that no technically-inclined member of the Internet community should be without.",
-industryIdentifiers: [
-{
-type: "ISBN_10",
-identifier: "1449379583"
-},
-{
-type: "ISBN_13",
-identifier: "9781449379582"
-}
-],
-readingModes: {
-text: true,
-image: true
-},
-pageCount: 658,
-printType: "BOOK",
-categories: [
-"Computers"
-],
-averageRating: 3.5,
-ratingsCount: 7,
-maturityRating: "NOT_MATURE",
-allowAnonLogging: true,
-contentVersion: "1.3.3.0.preview.3",
-panelizationSummary: {
-containsEpubBubbles: false,
-containsImageBubbles: false
-},
-imageLinks: {
-smallThumbnail: "http://books.google.com/books/content?id=qEoOl9bcV_cC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-thumbnail: "http://books.google.com/books/content?id=qEoOl9bcV_cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-},
-language: "en",
-previewLink: "http://books.google.ae/books?id=qEoOl9bcV_cC&pg=PT237&dq=%7Bhttp%7D&hl=&cd=2&source=gbs_api",
-infoLink: "https://play.google.com/store/books/details?id=qEoOl9bcV_cC&source=gbs_api",
-canonicalVolumeLink: "https://play.google.com/store/books/details?id=qEoOl9bcV_cC"
-},
-saleInfo: {
-country: "AE",
-saleability: "FOR_SALE",
-isEbook: true,
-listPrice: {
-amount: 77.65,
-currencyCode: "AED"
-},
-retailPrice: {
-amount: 77.65,
-currencyCode: "AED"
-},
-buyLink: "https://play.google.com/store/books/details?id=qEoOl9bcV_cC&rdid=book-qEoOl9bcV_cC&rdot=1&source=gbs_api",
-offers: [
-{
-finskyOfferType: 1,
-listPrice: {
-amountInMicros: 77650000,
-currencyCode: "AED"
-},
-retailPrice: {
-amountInMicros: 77650000,
-currencyCode: "AED"
-}
-}
-]
-},
-accessInfo: {
-country: "AE",
-viewability: "PARTIAL",
-embeddable: true,
-publicDomain: false,
-textToSpeechPermission: "ALLOWED",
-epub: {
-isAvailable: true
-},
-pdf: {
-isAvailable: true
-},
-webReaderLink: "http://play.google.com/books/reader?id=qEoOl9bcV_cC&hl=&printsec=frontcover&source=gbs_api",
-accessViewStatus: "SAMPLE",
-quoteSharingAllowed: false
-},
-searchInfo: {
-textSnippet: "Different URLs that alias to the same documents * First URL a <b>http</b>://www.foo.com<br> /bar.html b <b>http</b>://www.foo.com/~fred c <b>http</b>://www.foo.com/x.html#early d <b>http</b>://<br> www.foo.com/readme.htm e <b>http</b>://www.foo.com/ f <b>http</b>://www.foo.com/index.html&nbsp;..."
-}
-},
-{
-kind: "books#volume",
-id: "dOIlEeG1v4UC",
-etag: "tS14au/yWF4",
-selfLink: "https://www.googleapis.com/books/v1/volumes/dOIlEeG1v4UC",
-volumeInfo: {
-title: "HTTP Pocket Reference",
-subtitle: "Hypertext Transfer Protocol",
-authors: [
-"Clinton Wong"
-],
-publisher: ""O'Reilly Media, Inc."",
-publishedDate: "2000-06-06",
-description: "The HyperText Transfer Protocol, or HTTP, is the backbone of the World Wide Web. HTTP is the language that each web browser (or other web client) uses to communicate with servers around the world. All web programmers, administrators, and application developers need to be familiar with HTTP in order to work effectively.The HTTP Pocket Reference not only provides a solid conceptual foundation of HTTP, it also serves as a quick reference to each of the headers and status codes that comprise an HTTP transaction. The book starts with a tutorial of HTTP, but then explains the client request and server responses in more detail, and gives a thorough technical explanation of more advanced features of HTTP (such as persistent connections and caching).Most people use the Web every day without knowing anything about HTTP, but for those who need to get "beyond the browser," this book is the place to start.",
-industryIdentifiers: [
-{
-type: "ISBN_10",
-identifier: "1449379605"
-},
-{
-type: "ISBN_13",
-identifier: "9781449379605"
-}
-],
-readingModes: {
-text: true,
-image: true
-},
-pageCount: 82,
-printType: "BOOK",
-categories: [
-"Computers"
-],
-averageRating: 4.5,
-ratingsCount: 2,
-maturityRating: "NOT_MATURE",
-allowAnonLogging: true,
-contentVersion: "1.2.2.0.preview.3",
-panelizationSummary: {
-containsEpubBubbles: false,
-containsImageBubbles: false
-},
-imageLinks: {
-smallThumbnail: "http://books.google.com/books/content?id=dOIlEeG1v4UC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-thumbnail: "http://books.google.com/books/content?id=dOIlEeG1v4UC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-},
-language: "en",
-previewLink: "http://books.google.ae/books?id=dOIlEeG1v4UC&pg=PA2&dq=%7Bhttp%7D&hl=&cd=3&source=gbs_api",
-infoLink: "https://play.google.com/store/books/details?id=dOIlEeG1v4UC&source=gbs_api",
-canonicalVolumeLink: "https://play.google.com/store/books/details?id=dOIlEeG1v4UC"
-},
-saleInfo: {
-country: "AE",
-saleability: "FOR_SALE",
-isEbook: true,
-listPrice: {
-amount: 14.51,
-currencyCode: "AED"
-},
-retailPrice: {
-amount: 14.51,
-currencyCode: "AED"
-},
-buyLink: "https://play.google.com/store/books/details?id=dOIlEeG1v4UC&rdid=book-dOIlEeG1v4UC&rdot=1&source=gbs_api",
-offers: [
-{
-finskyOfferType: 1,
-listPrice: {
-amountInMicros: 14510000,
-currencyCode: "AED"
-},
-retailPrice: {
-amountInMicros: 14510000,
-currencyCode: "AED"
-}
-}
-]
-},
-accessInfo: {
-country: "AE",
-viewability: "PARTIAL",
-embeddable: true,
-publicDomain: false,
-textToSpeechPermission: "ALLOWED",
-epub: {
-isAvailable: true
-},
-pdf: {
-isAvailable: true
-},
-webReaderLink: "http://play.google.com/books/reader?id=dOIlEeG1v4UC&hl=&printsec=frontcover&source=gbs_api",
-accessViewStatus: "SAMPLE",
-quoteSharingAllowed: false
-},
-searchInfo: {
-textSnippet: "Requests. Given the following URL: <b>http</b>://hypothetical.ora.com:80/ The browser <br> interprets the URL as follows: <b>http</b>:// Use <b>HTTP</b>, the Hypertext Transfer Protocol. <br> hypothetical.ora.com Contact a computer over the network with the hostname of&nbsp;..."
-}
-},
-{
-kind: "books#volume",
-id: "VVCJED_F7QcC",
-etag: "vCOR+ihogFI",
-selfLink: "https://www.googleapis.com/books/v1/volumes/VVCJED_F7QcC",
-volumeInfo: {
-title: "Apache HTTP Server 2.2 Official Documentation - Volume I. Server Administration",
-authors: [
-"Apache Software Foundation"
-],
-publisher: "Fultus Corporation",
-publishedDate: "2010-04",
-description: "The Apache HTTP Server 2.2 Official Documentation books covers all aspects of using and managing for the world's most popular web server.",
-industryIdentifiers: [
-{
-type: "ISBN_13",
-identifier: "9781596821910"
-},
-{
-type: "ISBN_10",
-identifier: "1596821914"
-}
-],
-readingModes: {
-text: false,
-image: true
-},
-pageCount: 260,
-printType: "BOOK",
-categories: [
-"Computers"
-],
-maturityRating: "NOT_MATURE",
-allowAnonLogging: false,
-contentVersion: "0.1.0.0.preview.1",
-imageLinks: {
-smallThumbnail: "http://books.google.com/books/content?id=VVCJED_F7QcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-thumbnail: "http://books.google.com/books/content?id=VVCJED_F7QcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-},
-language: "en",
-previewLink: "http://books.google.ae/books?id=VVCJED_F7QcC&pg=PA3&dq=%7Bhttp%7D&hl=&cd=4&source=gbs_api",
-infoLink: "http://books.google.ae/books?id=VVCJED_F7QcC&dq=%7Bhttp%7D&hl=&source=gbs_api",
-canonicalVolumeLink: "https://books.google.com/books/about/Apache_HTTP_Server_2_2_Official_Document.html?hl=&id=VVCJED_F7QcC"
-},
-saleInfo: {
-country: "AE",
-saleability: "NOT_FOR_SALE",
-isEbook: false
-},
-accessInfo: {
-country: "AE",
-viewability: "PARTIAL",
-embeddable: true,
-publicDomain: false,
-textToSpeechPermission: "ALLOWED",
-epub: {
-isAvailable: false
-},
-pdf: {
-isAvailable: false
-},
-webReaderLink: "http://play.google.com/books/reader?id=VVCJED_F7QcC&hl=&printsec=frontcover&source=gbs_api",
-accessViewStatus: "SAMPLE",
-quoteSharingAllowed: false
-},
-searchInfo: {
-textSnippet: "The Apache Software Foundation. Apache <b>HTTP</b> Server 2.2 Official <br> Documentation List Table of Contents List of Figures....................................................<br> ................................................................................13 Foreword."
-}
-},
-{
-kind: "books#volume",
-id: "g_1SAAAAMAAJ",
-etag: "ttRdOHh6Ym4",
-selfLink: "https://www.googleapis.com/books/v1/volumes/g_1SAAAAMAAJ",
-volumeInfo: {
-title: "Web Protocols and Practice",
-subtitle: "HTTP/1.1, Networking Protocols, Caching, and Traffic Measurement",
-authors: [
-"Balachander Krishnamurthy",
-"Jennifer Rexford"
-],
-publisher: "Addison-Wesley Professional",
-publishedDate: "2001",
-description: "Web Protocols and Practice: HTTP/1.1, Networking Protocols, Caching, and Traffic Measurement is an all-in-one reference to the core technologies underlying the World Wide Web. The book provides an authoritative and in-depth look at the systems and protocols responsible for the transfer of content across the Web. The HyperText Transfer Protocol (HTTP) is responsible for nearly three-quarters of the traffic on todays Internet. This books extensive treatment of HTTP/1.1 and its interaction with other network protocols make it an indispensable resource for both practitioners and students. Providing both the evolution and complete details of the basic building blocks of the Web, Web Protocols and Practice begins with an overview of Web software components and follows up with a description of the suite of protocols that form the semantic core of how content is delivered on the Web. The book later examines Web measurement and workload characterization and presents a cutting-edge report on Web caching and multimedia streaming. It concludes with a discussion on research perspectives that highlight topics that may affect the future evolution of the Web. Numerous examples and case studies thr",
-industryIdentifiers: [
-{
-type: "OTHER",
-identifier: "UOM:39015050763880"
-}
-],
-readingModes: {
-text: false,
-image: false
-},
-pageCount: 642,
-printType: "BOOK",
-categories: [
-"Computers"
-],
-averageRating: 3,
-ratingsCount: 1,
-maturityRating: "NOT_MATURE",
-allowAnonLogging: false,
-contentVersion: "2.1.2.0.preview.0",
-panelizationSummary: {
-containsEpubBubbles: false,
-containsImageBubbles: false
-},
-imageLinks: {
-smallThumbnail: "http://books.google.com/books/content?id=g_1SAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-thumbnail: "http://books.google.com/books/content?id=g_1SAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-},
-language: "en",
-previewLink: "http://books.google.ae/books?id=g_1SAAAAMAAJ&q=%7Bhttp%7D&dq=%7Bhttp%7D&hl=&cd=5&source=gbs_api",
-infoLink: "http://books.google.ae/books?id=g_1SAAAAMAAJ&dq=%7Bhttp%7D&hl=&source=gbs_api",
-canonicalVolumeLink: "https://books.google.com/books/about/Web_Protocols_and_Practice.html?hl=&id=g_1SAAAAMAAJ"
-},
-saleInfo: {
-country: "AE",
-saleability: "NOT_FOR_SALE",
-isEbook: false
-},
-accessInfo: {
-country: "AE",
-viewability: "NO_PAGES",
-embeddable: false,
-publicDomain: false,
-textToSpeechPermission: "ALLOWED",
-epub: {
-isAvailable: false
-},
-pdf: {
-isAvailable: false
-},
-webReaderLink: "http://play.google.com/books/reader?id=g_1SAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
-accessViewStatus: "NONE",
-quoteSharingAllowed: false
-},
-searchInfo: {
-textSnippet: "Everyone will want this book.&quot; --Jon Crowcroft, Professor, Networks Systems, University College London &quot;This book is likely to be an invaluable resource for anyone interested in understanding the protocols and infrastructure behind the Web."
-}
-},
-{
-kind: "books#volume",
-id: "L9pbKAHfc34C",
-etag: "Ib4wYzPg8/Y",
-selfLink: "https://www.googleapis.com/books/v1/volumes/L9pbKAHfc34C",
-volumeInfo: {
-title: "Apache HTTP Server 2.2 Official Documentation - Volume IV. Modules (I-V)",
-authors: [
-"Apache Software Foundation"
-],
-publisher: "Fultus Corporation",
-publishedDate: "2010-04",
-description: "The Apache HTTP Server 2.2 Official Documentation books covers all aspects of using and managing for the world's most popular web server.",
-industryIdentifiers: [
-{
-type: "ISBN_13",
-identifier: "9781596821941"
-},
-{
-type: "ISBN_10",
-identifier: "1596821949"
-}
-],
-readingModes: {
-text: false,
-image: true
-},
-pageCount: 292,
-printType: "BOOK",
-categories: [
-"Computers"
-],
-maturityRating: "NOT_MATURE",
-allowAnonLogging: false,
-contentVersion: "0.1.0.0.preview.1",
-imageLinks: {
-smallThumbnail: "http://books.google.com/books/content?id=L9pbKAHfc34C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-thumbnail: "http://books.google.com/books/content?id=L9pbKAHfc34C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-},
-language: "en",
-previewLink: "http://books.google.ae/books?id=L9pbKAHfc34C&pg=PA3&dq=%7Bhttp%7D&hl=&cd=6&source=gbs_api",
-infoLink: "http://books.google.ae/books?id=L9pbKAHfc34C&dq=%7Bhttp%7D&hl=&source=gbs_api",
-canonicalVolumeLink: "https://books.google.com/books/about/Apache_HTTP_Server_2_2_Official_Document.html?hl=&id=L9pbKAHfc34C"
-},
-saleInfo: {
-country: "AE",
-saleability: "NOT_FOR_SALE",
-isEbook: false
-},
-accessInfo: {
-country: "AE",
-viewability: "PARTIAL",
-embeddable: true,
-publicDomain: false,
-textToSpeechPermission: "ALLOWED",
-epub: {
-isAvailable: false
-},
-pdf: {
-isAvailable: false
-},
-webReaderLink: "http://play.google.com/books/reader?id=L9pbKAHfc34C&hl=&printsec=frontcover&source=gbs_api",
-accessViewStatus: "SAMPLE",
-quoteSharingAllowed: false
-},
-searchInfo: {
-textSnippet: "Apache <b>HTTP</b> Server 2.2 Official Documentation List Table of Contents Part XI. <br> Apache modules....................................................................................................................<br> 13 Chapter 130. Apache 3 Apache <b>HTTP</b> Server 2.2. Volume IV. Version Title&nbsp;..."
-}
-},
-{
-kind: "books#volume",
-id: "yrPuqe2ww2wC",
-etag: "s1k+blyOcgM",
-selfLink: "https://www.googleapis.com/books/v1/volumes/yrPuqe2ww2wC",
-volumeInfo: {
-title: "Apache HTTP Server 2.2 Official Documentation - Volume III. Modules (A-H)",
-authors: [
-"Apache Software Foundation"
-],
-publisher: "Fultus Corporation",
-publishedDate: "2010-04",
-description: "The Apache HTTP Server 2.2 Official Documentation books covers all aspects of using and managing for the world's most popular web server.",
-industryIdentifiers: [
-{
-type: "ISBN_13",
-identifier: "9781596821934"
-},
-{
-type: "ISBN_10",
-identifier: "1596821930"
-}
-],
-readingModes: {
-text: false,
-image: true
-},
-pageCount: 292,
-printType: "BOOK",
-categories: [
-"Computers"
-],
-maturityRating: "NOT_MATURE",
-allowAnonLogging: false,
-contentVersion: "0.1.0.0.preview.1",
-imageLinks: {
-smallThumbnail: "http://books.google.com/books/content?id=yrPuqe2ww2wC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-thumbnail: "http://books.google.com/books/content?id=yrPuqe2ww2wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-},
-language: "en",
-previewLink: "http://books.google.ae/books?id=yrPuqe2ww2wC&pg=PA3&dq=%7Bhttp%7D&hl=&cd=7&source=gbs_api",
-infoLink: "http://books.google.ae/books?id=yrPuqe2ww2wC&dq=%7Bhttp%7D&hl=&source=gbs_api",
-canonicalVolumeLink: "https://books.google.com/books/about/Apache_HTTP_Server_2_2_Official_Document.html?hl=&id=yrPuqe2ww2wC"
-},
-saleInfo: {
-country: "AE",
-saleability: "NOT_FOR_SALE",
-isEbook: false
-},
-accessInfo: {
-country: "AE",
-viewability: "PARTIAL",
-embeddable: true,
-publicDomain: false,
-textToSpeechPermission: "ALLOWED",
-epub: {
-isAvailable: false
-},
-pdf: {
-isAvailable: false
-},
-webReaderLink: "http://play.google.com/books/reader?id=yrPuqe2ww2wC&hl=&printsec=frontcover&source=gbs_api",
-accessViewStatus: "SAMPLE",
-quoteSharingAllowed: false
-},
-searchInfo: {
-textSnippet: "The Apache Software Foundation. Apache <b>HTTP</b> Server 2.2 Official <br> Documentation List Table of Contents List of Figures....................................................<br> ................................................................................15 Part XI. Apache modules."
-}
-},
-{
-kind: "books#volume",
-id: "wRIWM-6rqBIC",
-etag: "MRPUCjYxDlA",
-selfLink: "https://www.googleapis.com/books/v1/volumes/wRIWM-6rqBIC",
-volumeInfo: {
-title: "Nginx HTTP Server",
-subtitle: "Adopt Nginx for Your Web Applications to Make the Most of Your Infrastructure and Serve Pages Faster Than Ever",
-authors: [
-"Clement Nedelcu"
-],
-publisher: "Packt Publishing Ltd",
-publishedDate: "2010-07-20",
-description: "Adopt Nginx for your web applications to make the most of your infrastructure and serve pages faster than ever.",
-industryIdentifiers: [
-{
-type: "ISBN_10",
-identifier: "1849510873"
-},
-{
-type: "ISBN_13",
-identifier: "9781849510875"
-}
-],
-readingModes: {
-text: true,
-image: true
-},
-pageCount: 327,
-printType: "BOOK",
-categories: [
-"Computers"
-],
-maturityRating: "NOT_MATURE",
-allowAnonLogging: true,
-contentVersion: "2.3.4.0.preview.3",
-panelizationSummary: {
-containsEpubBubbles: false,
-containsImageBubbles: false
-},
-imageLinks: {
-smallThumbnail: "http://books.google.com/books/content?id=wRIWM-6rqBIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-thumbnail: "http://books.google.com/books/content?id=wRIWM-6rqBIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-},
-language: "en",
-previewLink: "http://books.google.ae/books?id=wRIWM-6rqBIC&pg=PT21&dq=%7Bhttp%7D&hl=&cd=8&source=gbs_api",
-infoLink: "https://play.google.com/store/books/details?id=wRIWM-6rqBIC&source=gbs_api",
-canonicalVolumeLink: "https://play.google.com/store/books/details?id=wRIWM-6rqBIC"
-},
-saleInfo: {
-country: "AE",
-saleability: "FOR_SALE",
-isEbook: true,
-listPrice: {
-amount: 104.09,
-currencyCode: "AED"
-},
-retailPrice: {
-amount: 104.09,
-currencyCode: "AED"
-},
-buyLink: "https://play.google.com/store/books/details?id=wRIWM-6rqBIC&rdid=book-wRIWM-6rqBIC&rdot=1&source=gbs_api",
-offers: [
-{
-finskyOfferType: 1,
-listPrice: {
-amountInMicros: 104090000,
-currencyCode: "AED"
-},
-retailPrice: {
-amountInMicros: 104090000,
-currencyCode: "AED"
-}
-}
-]
-},
-accessInfo: {
-country: "AE",
-viewability: "PARTIAL",
-embeddable: true,
-publicDomain: false,
-textToSpeechPermission: "ALLOWED",
-epub: {
-isAvailable: true
-},
-pdf: {
-isAvailable: true
-},
-webReaderLink: "http://play.google.com/books/reader?id=wRIWM-6rqBIC&hl=&printsec=frontcover&source=gbs_api",
-accessViewStatus: "SAMPLE",
-quoteSharingAllowed: false
-},
-searchInfo: {
-textSnippet: "However, for the past few months the same reports reveal the rise of a new <br> competitor: Nginx, a lightweight <b>HTTP</b> server originating from Russia— <br> pronounced &quot;engine X&quot;. There have been many interrogations surrounding the <br> pronounced&nbsp;..."
-}
-},
-{
-kind: "books#volume",
-id: "z-rQAwAAQBAJ",
-etag: "sFgTb1DdsmU",
-selfLink: "https://www.googleapis.com/books/v1/volumes/z-rQAwAAQBAJ",
-volumeInfo: {
-title: "//:http://",
-authors: [
-"Kevin Samuel Jones"
-],
-publisher: "Lulu.com",
-industryIdentifiers: [
-{
-type: "ISBN_13",
-identifier: "9781471694646"
-},
-{
-type: "ISBN_10",
-identifier: "147169464X"
-}
-],
-readingModes: {
-text: false,
-image: true
-},
-printType: "BOOK",
-maturityRating: "NOT_MATURE",
-allowAnonLogging: false,
-contentVersion: "preview-1.0.0",
-imageLinks: {
-smallThumbnail: "http://books.google.com/books/content?id=z-rQAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-thumbnail: "http://books.google.com/books/content?id=z-rQAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-},
-language: "en",
-previewLink: "http://books.google.ae/books?id=z-rQAwAAQBAJ&pg=PT1&dq=%7Bhttp%7D&hl=&cd=9&source=gbs_api",
-infoLink: "http://books.google.ae/books?id=z-rQAwAAQBAJ&dq=%7Bhttp%7D&hl=&source=gbs_api",
-canonicalVolumeLink: "https://books.google.com/books/about/http.html?hl=&id=z-rQAwAAQBAJ"
-},
-saleInfo: {
-country: "AE",
-saleability: "NOT_FOR_SALE",
-isEbook: false
-},
-accessInfo: {
-country: "AE",
-viewability: "PARTIAL",
-embeddable: true,
-publicDomain: false,
-textToSpeechPermission: "ALLOWED",
-epub: {
-isAvailable: false
-},
-pdf: {
-isAvailable: false
-},
-webReaderLink: "http://play.google.com/books/reader?id=z-rQAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
-accessViewStatus: "SAMPLE",
-quoteSharingAllowed: false
-},
-searchInfo: {
-textSnippet: "Kevin Samuel Jones. //:<b>http</b>:// By Kevin Samuel Jones A lulu book Published by <br> lulu Copyright © 2012 Kevin."
-}
-},
-{
-kind: "books#volume",
-id: "9-RlVK5iX60C",
-etag: "pQKk2eGUbuc",
-selfLink: "https://www.googleapis.com/books/v1/volumes/9-RlVK5iX60C",
-volumeInfo: {
-title: "Nginx HTTP Server Second Edition",
-authors: [
-"Clement Nedelcu"
-],
-publisher: "Packt Publishing Ltd",
-publishedDate: "2013-01-01",
-description: "This tutorial book includes detailed instructions for each of the processes it describes: downloading and installing the application, configuring and using modules, and much more. It provides a step-by-step tutorial to replace your existing web server with Nginx. With commented configuration sections and in-depth module descriptions, you will be able to make the most of the performance potential offered by Nginx.By covering both early setup stages and advanced topics this book will suit web administrators interested in solutions to optimize their infrastructure, whether they are looking into replacing existing web server software or integrating a new tool cooperating with applications already up and running. If you, your visitors and your operating system have been disappointed by Apache, this book is exactly what you need.",
-industryIdentifiers: [
-{
-type: "ISBN_13",
-identifier: "9781782162339"
-},
-{
-type: "ISBN_10",
-identifier: "178216233X"
-}
-],
-readingModes: {
-text: true,
-image: true
-},
-pageCount: 318,
-printType: "BOOK",
-categories: [
-"Computers"
-],
-averageRating: 4.5,
-ratingsCount: 2,
-maturityRating: "NOT_MATURE",
-allowAnonLogging: true,
-contentVersion: "0.1.2.0.preview.3",
-panelizationSummary: {
-containsEpubBubbles: false,
-containsImageBubbles: false
-},
-imageLinks: {
-smallThumbnail: "http://books.google.com/books/content?id=9-RlVK5iX60C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-thumbnail: "http://books.google.com/books/content?id=9-RlVK5iX60C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-},
-language: "en",
-previewLink: "http://books.google.ae/books?id=9-RlVK5iX60C&pg=PT507&dq=%7Bhttp%7D&hl=&cd=10&source=gbs_api",
-infoLink: "https://play.google.com/store/books/details?id=9-RlVK5iX60C&source=gbs_api",
-canonicalVolumeLink: "https://play.google.com/store/books/details?id=9-RlVK5iX60C"
-},
-saleInfo: {
-country: "AE",
-saleability: "FOR_SALE",
-isEbook: true,
-listPrice: {
-amount: 104.09,
-currencyCode: "AED"
-},
-retailPrice: {
-amount: 104.09,
-currencyCode: "AED"
-},
-buyLink: "https://play.google.com/store/books/details?id=9-RlVK5iX60C&rdid=book-9-RlVK5iX60C&rdot=1&source=gbs_api",
-offers: [
-{
-finskyOfferType: 1,
-listPrice: {
-amountInMicros: 104090000,
-currencyCode: "AED"
-},
-retailPrice: {
-amountInMicros: 104090000,
-currencyCode: "AED"
-}
-}
-]
-},
-accessInfo: {
-country: "AE",
-viewability: "PARTIAL",
-embeddable: true,
-publicDomain: false,
-textToSpeechPermission: "ALLOWED",
-epub: {
-isAvailable: true
-},
-pdf: {
-isAvailable: true
-},
-webReaderLink: "http://play.google.com/books/reader?id=9-RlVK5iX60C&hl=&printsec=frontcover&source=gbs_api",
-accessViewStatus: "SAMPLE",
-quoteSharingAllowed: false
-},
-searchInfo: {
-textSnippet: "DAV / DAV* Degradation / Degradation* Empty GIF/ Empty GIF Events / Events <br> FastCGI /FastCGI FLV / FLV* Geo / Geo Geo IP / GeoIP* Googleperftools / <br> Googleperftools* Gzip / Gzip Gzip Static/GzipStatic* Headers / Headers <b>HTTP</b> <br> Core&nbsp;..."
-}
-}
-]
+    "kind":"books#volumes",
+    "totalItems":503,
+    "items":[
+        {
+            "kind":"books#volume",
+            "id":"oxg8_i9dVakC",
+            "etag":"JCvT/osMNGw",
+            "selfLink":"https://www.googleapis.com/books/v1/volumes/oxg8_i9dVakC",
+            "volumeInfo":{
+                "title":"HTTP Developer's Handbook",
+                "authors":[
+                    "Chris Shiflett"
+                ],
+                "publisher":"Sams Publishing",
+                "publishedDate":"2003",
+                "description":"Though it is the Internet's most dominant protocol, there is an unmet need for an authoritative guide that delves into the details of HTTP. This guide does just that, and understanding HTTP helps programmers creating PHP, ColdFusion, or JSP Web applications to develop and debug complex programs.",
+                "industryIdentifiers":[
+                    {
+                        "type":"ISBN_10",
+                        "identifier":"0672324547"
+                    },
+                    {
+                        "type":"ISBN_13",
+                        "identifier":"9780672324543"
+                    }
+                ],
+                "readingModes":{
+                    "text":false,
+                    "image":true
+                },
+                "pageCount":282,
+                "printType":"BOOK",
+                "categories":[
+                    "Computers"
+                ],
+                "averageRating":3.5,
+                "ratingsCount":6,
+                "maturityRating":"NOT_MATURE",
+                "allowAnonLogging":false,
+                "contentVersion":"0.0.2.0.preview.1",
+                "panelizationSummary":{
+                    "containsEpubBubbles":false,
+                    "containsImageBubbles":false
+                },
+                "imageLinks":{
+                    "smallThumbnail":"http://books.google.com/books/content?id=oxg8_i9dVakC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail":"http://books.google.com/books/content?id=oxg8_i9dVakC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language":"en",
+                "previewLink":"http://books.google.ae/books?id=oxg8_i9dVakC&pg=PA221&dq=%7Bhttp%7D&hl=&cd=1&source=gbs_api",
+                "infoLink":"http://books.google.ae/books?id=oxg8_i9dVakC&dq=%7Bhttp%7D&hl=&source=gbs_api",
+                "canonicalVolumeLink":"https://books.google.com/books/about/HTTP_Developer_s_Handbook.html?hl=&id=oxg8_i9dVakC"
+            },
+            "saleInfo":{
+                "country":"AE",
+                "saleability":"NOT_FOR_SALE",
+                "isEbook":false
+            },
+            "accessInfo":{
+                "country":"AE",
+                "viewability":"PARTIAL",
+                "embeddable":true,
+                "publicDomain":false,
+                "textToSpeechPermission":"ALLOWED_FOR_ACCESSIBILITY",
+                "epub":{
+                    "isAvailable":false
+                },
+                "pdf":{
+                    "isAvailable":false
+                },
+                "webReaderLink":"http://play.google.com/books/reader?id=oxg8_i9dVakC&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus":"SAMPLE",
+                "quoteSharingAllowed":false
+            },
+            "searchInfo":{
+                "textSnippet":"A method of Inband indicates that the key was previously included in a Key-<br>
+Assign <b>HTTP</b> header, whereas a method of outband indicates that the method of <br>
+key exchange lies outside of the scope of Secure <b>HTTP</b>. This flexibility would be ..."
+            }
+        },
+        {
+            "kind":"books#volume",
+            "id":"qEoOl9bcV_cC",
+            "etag":"2CaAdlIt9qQ",
+            "selfLink":"https://www.googleapis.com/books/v1/volumes/qEoOl9bcV_cC",
+            "volumeInfo":{
+                "title":"HTTP: The Definitive Guide",
+                "subtitle":"The Definitive Guide",
+                "authors":[
+                    "David Gourley",
+                    "Brian Totty",
+                    "Marjorie Sayer",
+                    "Anshu Aggarwal",
+                    "Sailu Reddy"
+                ],
+                "publisher":""O'Reilly Media, Inc."",
+                "publishedDate":"2002-09-27",
+                "description":"Behind every web transaction lies the Hypertext Transfer Protocol (HTTP) --- the language of web browsers and servers, of portals and search engines, of e-commerce and web services. Understanding HTTP is essential for practically all web-based programming, design, analysis, and administration.While the basics of HTTP are elegantly simple, the protocol's advanced features are notoriously confusing, because they knit together complex technologies and terminology from many disciplines. This book clearly explains HTTP and these interrelated core technologies, in twenty-one logically organized chapters, backed up by hundreds of detailed illustrations and examples, and convenient reference appendices. HTTP: The Definitive Guide explains everything people need to use HTTP efficiently -- including the "black arts" and "tricks of the trade" -- in a concise and readable manner.In addition to explaining the basic HTTP features, syntax and guidelines, this book clarifies related, but often misunderstood topics, such as: TCP connection management, web proxy and cache architectures, web robots and robots.txt files, Basic and Digest authentication, secure HTTP transactions, entity body processing, internationalized content, and traffic redirection.Many technical professionals will benefit from this book. Internet architects and developers who need to design and develop software, IT professionals who need to understand Internet architectural components and interactions, multimedia designers who need to publish and host multimedia, performance engineers who need to optimize web performance, technical marketing professionals who need a clear picture of core web architectures and protocols, as well as untold numbers of students and hobbyists will all benefit from the knowledge packed in this volume.There are many books that explain how to use the Web, but this is the one that explains how the Web works. Written by experts with years of design and implementation experience, this book is the definitive technical bible that describes the "why" and the "how" of HTTP and web core technologies. HTTP: The Definitive Guide is an essential reference that no technically-inclined member of the Internet community should be without.",
+                "industryIdentifiers":[
+                    {
+                        "type":"ISBN_10",
+                        "identifier":"1449379583"
+                    },
+                    {
+                        "type":"ISBN_13",
+                        "identifier":"9781449379582"
+                    }
+                ],
+                "readingModes":{
+                    "text":true,
+                    "image":true
+                },
+                "pageCount":658,
+                "printType":"BOOK",
+                "categories":[
+                    "Computers"
+                ],
+                "averageRating":3.5,
+                "ratingsCount":7,
+                "maturityRating":"NOT_MATURE",
+                "allowAnonLogging":true,
+                "contentVersion":"1.3.3.0.preview.3",
+                "panelizationSummary":{
+                    "containsEpubBubbles":false,
+                    "containsImageBubbles":false
+                },
+                "imageLinks":{
+                    "smallThumbnail":"http://books.google.com/books/content?id=qEoOl9bcV_cC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail":"http://books.google.com/books/content?id=qEoOl9bcV_cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language":"en",
+                "previewLink":"http://books.google.ae/books?id=qEoOl9bcV_cC&pg=PT237&dq=%7Bhttp%7D&hl=&cd=2&source=gbs_api",
+                "infoLink":"https://play.google.com/store/books/details?id=qEoOl9bcV_cC&source=gbs_api",
+                "canonicalVolumeLink":"https://play.google.com/store/books/details?id=qEoOl9bcV_cC"
+            },
+            "saleInfo":{
+                "country":"AE",
+                "saleability":"FOR_SALE",
+                "isEbook":true,
+                "listPrice":{
+                    "amount":77.65,
+                    "currencyCode":"AED"
+                },
+                "retailPrice":{
+                    "amount":77.65,
+                    "currencyCode":"AED"
+                },
+                "buyLink":"https://play.google.com/store/books/details?id=qEoOl9bcV_cC&rdid=book-qEoOl9bcV_cC&rdot=1&source=gbs_api",
+                "offers":[
+                    {
+                        "finskyOfferType":1,
+                        "listPrice":{
+                            "amountInMicros":77650000,
+                            "currencyCode":"AED"
+                        },
+                        "retailPrice":{
+                            "amountInMicros":77650000,
+                            "currencyCode":"AED"
+                        }
+                    }
+                ]
+            },
+            "accessInfo":{
+                "country":"AE",
+                "viewability":"PARTIAL",
+                "embeddable":true,
+                "publicDomain":false,
+                "textToSpeechPermission":"ALLOWED",
+                "epub":{
+                    "isAvailable":true
+                },
+                "pdf":{
+                    "isAvailable":true
+                },
+                "webReaderLink":"http://play.google.com/books/reader?id=qEoOl9bcV_cC&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus":"SAMPLE",
+                "quoteSharingAllowed":false
+            },
+            "searchInfo":{
+                "textSnippet":"Different URLs that alias to the same documents * First URL a <b>http</b>://www.foo.com<br>
+/bar.html b <b>http</b>://www.foo.com/~fred c <b>http</b>://www.foo.com/x.html#early d <b>http</b>://<br>
+www.foo.com/readme.htm e <b>http</b>://www.foo.com/ f <b>http</b>://www.foo.com/index.html ..."
+            }
+        },
+        {
+            "kind":"books#volume",
+            "id":"dOIlEeG1v4UC",
+            "etag":"tS14au/yWF4",
+            "selfLink":"https://www.googleapis.com/books/v1/volumes/dOIlEeG1v4UC",
+            "volumeInfo":{
+                "title":"HTTP Pocket Reference",
+                "subtitle":"Hypertext Transfer Protocol",
+                "authors":[
+                    "Clinton Wong"
+                ],
+                "publisher":""O'Reilly Media, Inc."",
+                "publishedDate":"2000-06-06",
+                "description":"The HyperText Transfer Protocol, or HTTP, is the backbone of the World Wide Web. HTTP is the language that each web browser (or other web client) uses to communicate with servers around the world. All web programmers, administrators, and application developers need to be familiar with HTTP in order to work effectively.The HTTP Pocket Reference not only provides a solid conceptual foundation of HTTP, it also serves as a quick reference to each of the headers and status codes that comprise an HTTP transaction. The book starts with a tutorial of HTTP, but then explains the client request and server responses in more detail, and gives a thorough technical explanation of more advanced features of HTTP (such as persistent connections and caching).Most people use the Web every day without knowing anything about HTTP, but for those who need to get "beyond the browser," this book is the place to start.",
+                "industryIdentifiers":[
+                    {
+                        "type":"ISBN_10",
+                        "identifier":"1449379605"
+                    },
+                    {
+                        "type":"ISBN_13",
+                        "identifier":"9781449379605"
+                    }
+                ],
+                "readingModes":{
+                    "text":true,
+                    "image":true
+                },
+                "pageCount":82,
+                "printType":"BOOK",
+                "categories":[
+                    "Computers"
+                ],
+                "averageRating":4.5,
+                "ratingsCount":2,
+                "maturityRating":"NOT_MATURE",
+                "allowAnonLogging":true,
+                "contentVersion":"1.2.2.0.preview.3",
+                "panelizationSummary":{
+                    "containsEpubBubbles":false,
+                    "containsImageBubbles":false
+                },
+                "imageLinks":{
+                    "smallThumbnail":"http://books.google.com/books/content?id=dOIlEeG1v4UC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail":"http://books.google.com/books/content?id=dOIlEeG1v4UC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language":"en",
+                "previewLink":"http://books.google.ae/books?id=dOIlEeG1v4UC&pg=PA2&dq=%7Bhttp%7D&hl=&cd=3&source=gbs_api",
+                "infoLink":"https://play.google.com/store/books/details?id=dOIlEeG1v4UC&source=gbs_api",
+                "canonicalVolumeLink":"https://play.google.com/store/books/details?id=dOIlEeG1v4UC"
+            },
+            "saleInfo":{
+                "country":"AE",
+                "saleability":"FOR_SALE",
+                "isEbook":true,
+                "listPrice":{
+                    "amount":14.51,
+                    "currencyCode":"AED"
+                },
+                "retailPrice":{
+                    "amount":14.51,
+                    "currencyCode":"AED"
+                },
+                "buyLink":"https://play.google.com/store/books/details?id=dOIlEeG1v4UC&rdid=book-dOIlEeG1v4UC&rdot=1&source=gbs_api",
+                "offers":[
+                    {
+                        "finskyOfferType":1,
+                        "listPrice":{
+                            "amountInMicros":14510000,
+                            "currencyCode":"AED"
+                        },
+                        "retailPrice":{
+                            "amountInMicros":14510000,
+                            "currencyCode":"AED"
+                        }
+                    }
+                ]
+            },
+            "accessInfo":{
+                "country":"AE",
+                "viewability":"PARTIAL",
+                "embeddable":true,
+                "publicDomain":false,
+                "textToSpeechPermission":"ALLOWED",
+                "epub":{
+                    "isAvailable":true
+                },
+                "pdf":{
+                    "isAvailable":true
+                },
+                "webReaderLink":"http://play.google.com/books/reader?id=dOIlEeG1v4UC&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus":"SAMPLE",
+                "quoteSharingAllowed":false
+            },
+            "searchInfo":{
+                "textSnippet":"Requests. Given the following URL: <b>http</b>://hypothetical.ora.com:80/ The browser <br>
+interprets the URL as follows: <b>http</b>:// Use <b>HTTP</b>, the Hypertext Transfer Protocol. <br>
+hypothetical.ora.com Contact a computer over the network with the hostname of ..."
+            }
+        },
+        {
+            "kind":"books#volume",
+            "id":"VVCJED_F7QcC",
+            "etag":"vCOR+ihogFI",
+            "selfLink":"https://www.googleapis.com/books/v1/volumes/VVCJED_F7QcC",
+            "volumeInfo":{
+                "title":"Apache HTTP Server 2.2 Official Documentation - Volume I. Server Administration",
+                "authors":[
+                    "Apache Software Foundation"
+                ],
+                "publisher":"Fultus Corporation",
+                "publishedDate":"2010-04",
+                "description":"The Apache HTTP Server 2.2 Official Documentation books covers all aspects of using and managing for the world's most popular web server.",
+                "industryIdentifiers":[
+                    {
+                        "type":"ISBN_13",
+                        "identifier":"9781596821910"
+                    },
+                    {
+                        "type":"ISBN_10",
+                        "identifier":"1596821914"
+                    }
+                ],
+                "readingModes":{
+                    "text":false,
+                    "image":true
+                },
+                "pageCount":260,
+                "printType":"BOOK",
+                "categories":[
+                    "Computers"
+                ],
+                "maturityRating":"NOT_MATURE",
+                "allowAnonLogging":false,
+                "contentVersion":"0.1.0.0.preview.1",
+                "imageLinks":{
+                    "smallThumbnail":"http://books.google.com/books/content?id=VVCJED_F7QcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail":"http://books.google.com/books/content?id=VVCJED_F7QcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language":"en",
+                "previewLink":"http://books.google.ae/books?id=VVCJED_F7QcC&pg=PA3&dq=%7Bhttp%7D&hl=&cd=4&source=gbs_api",
+                "infoLink":"http://books.google.ae/books?id=VVCJED_F7QcC&dq=%7Bhttp%7D&hl=&source=gbs_api",
+                "canonicalVolumeLink":"https://books.google.com/books/about/Apache_HTTP_Server_2_2_Official_Document.html?hl=&id=VVCJED_F7QcC"
+            },
+            "saleInfo":{
+                "country":"AE",
+                "saleability":"NOT_FOR_SALE",
+                "isEbook":false
+            },
+            "accessInfo":{
+                "country":"AE",
+                "viewability":"PARTIAL",
+                "embeddable":true,
+                "publicDomain":false,
+                "textToSpeechPermission":"ALLOWED",
+                "epub":{
+                    "isAvailable":false
+                },
+                "pdf":{
+                    "isAvailable":false
+                },
+                "webReaderLink":"http://play.google.com/books/reader?id=VVCJED_F7QcC&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus":"SAMPLE",
+                "quoteSharingAllowed":false
+            },
+            "searchInfo":{
+                "textSnippet":"The Apache Software Foundation. Apache <b>HTTP</b> Server 2.2 Official <br>
+Documentation List Table of Contents List of Figures....................................................<br>
+................................................................................13 Foreword."
+            }
+        },
+        {
+            "kind":"books#volume",
+            "id":"g_1SAAAAMAAJ",
+            "etag":"ttRdOHh6Ym4",
+            "selfLink":"https://www.googleapis.com/books/v1/volumes/g_1SAAAAMAAJ",
+            "volumeInfo":{
+                "title":"Web Protocols and Practice",
+                "subtitle":"HTTP/1.1, Networking Protocols, Caching, and Traffic Measurement",
+                "authors":[
+                    "Balachander Krishnamurthy",
+                    "Jennifer Rexford"
+                ],
+                "publisher":"Addison-Wesley Professional",
+                "publishedDate":"2001",
+                "description":"Web Protocols and Practice: HTTP/1.1, Networking Protocols, Caching, and Traffic Measurement is an all-in-one reference to the core technologies underlying the World Wide Web. The book provides an authoritative and in-depth look at the systems and protocols responsible for the transfer of content across the Web. The HyperText Transfer Protocol (HTTP) is responsible for nearly three-quarters of the traffic on todays Internet. This books extensive treatment of HTTP/1.1 and its interaction with other network protocols make it an indispensable resource for both practitioners and students. Providing both the evolution and complete details of the basic building blocks of the Web, Web Protocols and Practice begins with an overview of Web software components and follows up with a description of the suite of protocols that form the semantic core of how content is delivered on the Web. The book later examines Web measurement and workload characterization and presents a cutting-edge report on Web caching and multimedia streaming. It concludes with a discussion on research perspectives that highlight topics that may affect the future evolution of the Web. Numerous examples and case studies thr",
+                "industryIdentifiers":[
+                    {
+                        "type":"OTHER",
+                        "identifier":"UOM:39015050763880"
+                    }
+                ],
+                "readingModes":{
+                    "text":false,
+                    "image":false
+                },
+                "pageCount":642,
+                "printType":"BOOK",
+                "categories":[
+                    "Computers"
+                ],
+                "averageRating":3,
+                "ratingsCount":1,
+                "maturityRating":"NOT_MATURE",
+                "allowAnonLogging":false,
+                "contentVersion":"2.1.2.0.preview.0",
+                "panelizationSummary":{
+                    "containsEpubBubbles":false,
+                    "containsImageBubbles":false
+                },
+                "imageLinks":{
+                    "smallThumbnail":"http://books.google.com/books/content?id=g_1SAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail":"http://books.google.com/books/content?id=g_1SAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language":"en",
+                "previewLink":"http://books.google.ae/books?id=g_1SAAAAMAAJ&q=%7Bhttp%7D&dq=%7Bhttp%7D&hl=&cd=5&source=gbs_api",
+                "infoLink":"http://books.google.ae/books?id=g_1SAAAAMAAJ&dq=%7Bhttp%7D&hl=&source=gbs_api",
+                "canonicalVolumeLink":"https://books.google.com/books/about/Web_Protocols_and_Practice.html?hl=&id=g_1SAAAAMAAJ"
+            },
+            "saleInfo":{
+                "country":"AE",
+                "saleability":"NOT_FOR_SALE",
+                "isEbook":false
+            },
+            "accessInfo":{
+                "country":"AE",
+                "viewability":"NO_PAGES",
+                "embeddable":false,
+                "publicDomain":false,
+                "textToSpeechPermission":"ALLOWED",
+                "epub":{
+                    "isAvailable":false
+                },
+                "pdf":{
+                    "isAvailable":false
+                },
+                "webReaderLink":"http://play.google.com/books/reader?id=g_1SAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus":"NONE",
+                "quoteSharingAllowed":false
+            },
+            "searchInfo":{
+                "textSnippet":"Everyone will want this book." --Jon Crowcroft, Professor, Networks Systems, University College London "This book is likely to be an invaluable resource for anyone interested in understanding the protocols and infrastructure behind the Web."
+            }
+        },
+        {
+            "kind":"books#volume",
+            "id":"L9pbKAHfc34C",
+            "etag":"Ib4wYzPg8/Y",
+            "selfLink":"https://www.googleapis.com/books/v1/volumes/L9pbKAHfc34C",
+            "volumeInfo":{
+                "title":"Apache HTTP Server 2.2 Official Documentation - Volume IV. Modules (I-V)",
+                "authors":[
+                    "Apache Software Foundation"
+                ],
+                "publisher":"Fultus Corporation",
+                "publishedDate":"2010-04",
+                "description":"The Apache HTTP Server 2.2 Official Documentation books covers all aspects of using and managing for the world's most popular web server.",
+                "industryIdentifiers":[
+                    {
+                        "type":"ISBN_13",
+                        "identifier":"9781596821941"
+                    },
+                    {
+                        "type":"ISBN_10",
+                        "identifier":"1596821949"
+                    }
+                ],
+                "readingModes":{
+                    "text":false,
+                    "image":true
+                },
+                "pageCount":292,
+                "printType":"BOOK",
+                "categories":[
+                    "Computers"
+                ],
+                "maturityRating":"NOT_MATURE",
+                "allowAnonLogging":false,
+                "contentVersion":"0.1.0.0.preview.1",
+                "imageLinks":{
+                    "smallThumbnail":"http://books.google.com/books/content?id=L9pbKAHfc34C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail":"http://books.google.com/books/content?id=L9pbKAHfc34C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language":"en",
+                "previewLink":"http://books.google.ae/books?id=L9pbKAHfc34C&pg=PA3&dq=%7Bhttp%7D&hl=&cd=6&source=gbs_api",
+                "infoLink":"http://books.google.ae/books?id=L9pbKAHfc34C&dq=%7Bhttp%7D&hl=&source=gbs_api",
+                "canonicalVolumeLink":"https://books.google.com/books/about/Apache_HTTP_Server_2_2_Official_Document.html?hl=&id=L9pbKAHfc34C"
+            },
+            "saleInfo":{
+                "country":"AE",
+                "saleability":"NOT_FOR_SALE",
+                "isEbook":false
+            },
+            "accessInfo":{
+                "country":"AE",
+                "viewability":"PARTIAL",
+                "embeddable":true,
+                "publicDomain":false,
+                "textToSpeechPermission":"ALLOWED",
+                "epub":{
+                    "isAvailable":false
+                },
+                "pdf":{
+                    "isAvailable":false
+                },
+                "webReaderLink":"http://play.google.com/books/reader?id=L9pbKAHfc34C&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus":"SAMPLE",
+                "quoteSharingAllowed":false
+            },
+            "searchInfo":{
+                "textSnippet":"Apache <b>HTTP</b> Server 2.2 Official Documentation List Table of Contents Part XI. <br>
+Apache modules....................................................................................................................<br>
+13 Chapter 130. Apache 3 Apache <b>HTTP</b> Server 2.2. Volume IV. Version Title ..."
+            }
+        },
+        {
+            "kind":"books#volume",
+            "id":"yrPuqe2ww2wC",
+            "etag":"s1k+blyOcgM",
+            "selfLink":"https://www.googleapis.com/books/v1/volumes/yrPuqe2ww2wC",
+            "volumeInfo":{
+                "title":"Apache HTTP Server 2.2 Official Documentation - Volume III. Modules (A-H)",
+                "authors":[
+                    "Apache Software Foundation"
+                ],
+                "publisher":"Fultus Corporation",
+                "publishedDate":"2010-04",
+                "description":"The Apache HTTP Server 2.2 Official Documentation books covers all aspects of using and managing for the world's most popular web server.",
+                "industryIdentifiers":[
+                    {
+                        "type":"ISBN_13",
+                        "identifier":"9781596821934"
+                    },
+                    {
+                        "type":"ISBN_10",
+                        "identifier":"1596821930"
+                    }
+                ],
+                "readingModes":{
+                    "text":false,
+                    "image":true
+                },
+                "pageCount":292,
+                "printType":"BOOK",
+                "categories":[
+                    "Computers"
+                ],
+                "maturityRating":"NOT_MATURE",
+                "allowAnonLogging":false,
+                "contentVersion":"0.1.0.0.preview.1",
+                "imageLinks":{
+                    "smallThumbnail":"http://books.google.com/books/content?id=yrPuqe2ww2wC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail":"http://books.google.com/books/content?id=yrPuqe2ww2wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language":"en",
+                "previewLink":"http://books.google.ae/books?id=yrPuqe2ww2wC&pg=PA3&dq=%7Bhttp%7D&hl=&cd=7&source=gbs_api",
+                "infoLink":"http://books.google.ae/books?id=yrPuqe2ww2wC&dq=%7Bhttp%7D&hl=&source=gbs_api",
+                "canonicalVolumeLink":"https://books.google.com/books/about/Apache_HTTP_Server_2_2_Official_Document.html?hl=&id=yrPuqe2ww2wC"
+            },
+            "saleInfo":{
+                "country":"AE",
+                "saleability":"NOT_FOR_SALE",
+                "isEbook":false
+            },
+            "accessInfo":{
+                "country":"AE",
+                "viewability":"PARTIAL",
+                "embeddable":true,
+                "publicDomain":false,
+                "textToSpeechPermission":"ALLOWED",
+                "epub":{
+                    "isAvailable":false
+                },
+                "pdf":{
+                    "isAvailable":false
+                },
+                "webReaderLink":"http://play.google.com/books/reader?id=yrPuqe2ww2wC&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus":"SAMPLE",
+                "quoteSharingAllowed":false
+            },
+            "searchInfo":{
+                "textSnippet":"The Apache Software Foundation. Apache <b>HTTP</b> Server 2.2 Official <br>
+Documentation List Table of Contents List of Figures....................................................<br>
+................................................................................15 Part XI. Apache modules."
+            }
+        },
+        {
+            "kind":"books#volume",
+            "id":"wRIWM-6rqBIC",
+            "etag":"MRPUCjYxDlA",
+            "selfLink":"https://www.googleapis.com/books/v1/volumes/wRIWM-6rqBIC",
+            "volumeInfo":{
+                "title":"Nginx HTTP Server",
+                "subtitle":"Adopt Nginx for Your Web Applications to Make the Most of Your Infrastructure and Serve Pages Faster Than Ever",
+                "authors":[
+                    "Clement Nedelcu"
+                ],
+                "publisher":"Packt Publishing Ltd",
+                "publishedDate":"2010-07-20",
+                "description":"Adopt Nginx for your web applications to make the most of your infrastructure and serve pages faster than ever.",
+                "industryIdentifiers":[
+                    {
+                        "type":"ISBN_10",
+                        "identifier":"1849510873"
+                    },
+                    {
+                        "type":"ISBN_13",
+                        "identifier":"9781849510875"
+                    }
+                ],
+                "readingModes":{
+                    "text":true,
+                    "image":true
+                },
+                "pageCount":327,
+                "printType":"BOOK",
+                "categories":[
+                    "Computers"
+                ],
+                "maturityRating":"NOT_MATURE",
+                "allowAnonLogging":true,
+                "contentVersion":"2.3.4.0.preview.3",
+                "panelizationSummary":{
+                    "containsEpubBubbles":false,
+                    "containsImageBubbles":false
+                },
+                "imageLinks":{
+                    "smallThumbnail":"http://books.google.com/books/content?id=wRIWM-6rqBIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail":"http://books.google.com/books/content?id=wRIWM-6rqBIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language":"en",
+                "previewLink":"http://books.google.ae/books?id=wRIWM-6rqBIC&pg=PT21&dq=%7Bhttp%7D&hl=&cd=8&source=gbs_api",
+                "infoLink":"https://play.google.com/store/books/details?id=wRIWM-6rqBIC&source=gbs_api",
+                "canonicalVolumeLink":"https://play.google.com/store/books/details?id=wRIWM-6rqBIC"
+            },
+            "saleInfo":{
+                "country":"AE",
+                "saleability":"FOR_SALE",
+                "isEbook":true,
+                "listPrice":{
+                    "amount":104.09,
+                    "currencyCode":"AED"
+                },
+                "retailPrice":{
+                    "amount":104.09,
+                    "currencyCode":"AED"
+                },
+                "buyLink":"https://play.google.com/store/books/details?id=wRIWM-6rqBIC&rdid=book-wRIWM-6rqBIC&rdot=1&source=gbs_api",
+                "offers":[
+                    {
+                        "finskyOfferType":1,
+                        "listPrice":{
+                            "amountInMicros":104090000,
+                            "currencyCode":"AED"
+                        },
+                        "retailPrice":{
+                            "amountInMicros":104090000,
+                            "currencyCode":"AED"
+                        }
+                    }
+                ]
+            },
+            "accessInfo":{
+                "country":"AE",
+                "viewability":"PARTIAL",
+                "embeddable":true,
+                "publicDomain":false,
+                "textToSpeechPermission":"ALLOWED",
+                "epub":{
+                    "isAvailable":true
+                },
+                "pdf":{
+                    "isAvailable":true
+                },
+                "webReaderLink":"http://play.google.com/books/reader?id=wRIWM-6rqBIC&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus":"SAMPLE",
+                "quoteSharingAllowed":false
+            },
+            "searchInfo":{
+                "textSnippet":"However, for the past few months the same reports reveal the rise of a new <br>
+competitor: Nginx, a lightweight <b>HTTP</b> server originating from Russia— <br>
+pronounced "engine X". There have been many interrogations surrounding the <br>
+pronounced ..."
+            }
+        },
+        {
+            "kind":"books#volume",
+            "id":"z-rQAwAAQBAJ",
+            "etag":"sFgTb1DdsmU",
+            "selfLink":"https://www.googleapis.com/books/v1/volumes/z-rQAwAAQBAJ",
+            "volumeInfo":{
+                "title":"//:http://",
+                "authors":[
+                    "Kevin Samuel Jones"
+                ],
+                "publisher":"Lulu.com",
+                "industryIdentifiers":[
+                    {
+                        "type":"ISBN_13",
+                        "identifier":"9781471694646"
+                    },
+                    {
+                        "type":"ISBN_10",
+                        "identifier":"147169464X"
+                    }
+                ],
+                "readingModes":{
+                    "text":false,
+                    "image":true
+                },
+                "printType":"BOOK",
+                "maturityRating":"NOT_MATURE",
+                "allowAnonLogging":false,
+                "contentVersion":"preview-1.0.0",
+                "imageLinks":{
+                    "smallThumbnail":"http://books.google.com/books/content?id=z-rQAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail":"http://books.google.com/books/content?id=z-rQAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language":"en",
+                "previewLink":"http://books.google.ae/books?id=z-rQAwAAQBAJ&pg=PT1&dq=%7Bhttp%7D&hl=&cd=9&source=gbs_api",
+                "infoLink":"http://books.google.ae/books?id=z-rQAwAAQBAJ&dq=%7Bhttp%7D&hl=&source=gbs_api",
+                "canonicalVolumeLink":"https://books.google.com/books/about/http.html?hl=&id=z-rQAwAAQBAJ"
+            },
+            "saleInfo":{
+                "country":"AE",
+                "saleability":"NOT_FOR_SALE",
+                "isEbook":false
+            },
+            "accessInfo":{
+                "country":"AE",
+                "viewability":"PARTIAL",
+                "embeddable":true,
+                "publicDomain":false,
+                "textToSpeechPermission":"ALLOWED",
+                "epub":{
+                    "isAvailable":false
+                },
+                "pdf":{
+                    "isAvailable":false
+                },
+                "webReaderLink":"http://play.google.com/books/reader?id=z-rQAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus":"SAMPLE",
+                "quoteSharingAllowed":false
+            },
+            "searchInfo":{
+                "textSnippet":"Kevin Samuel Jones. //:<b>http</b>:// By Kevin Samuel Jones A lulu book Published by <br>
+lulu Copyright © 2012 Kevin."
+            }
+        },
+        {
+            "kind":"books#volume",
+            "id":"9-RlVK5iX60C",
+            "etag":"pQKk2eGUbuc",
+            "selfLink":"https://www.googleapis.com/books/v1/volumes/9-RlVK5iX60C",
+            "volumeInfo":{
+                "title":"Nginx HTTP Server Second Edition",
+                "authors":[
+                    "Clement Nedelcu"
+                ],
+                "publisher":"Packt Publishing Ltd",
+                "publishedDate":"2013-01-01",
+                "description":"This tutorial book includes detailed instructions for each of the processes it describes: downloading and installing the application, configuring and using modules, and much more. It provides a step-by-step tutorial to replace your existing web server with Nginx. With commented configuration sections and in-depth module descriptions, you will be able to make the most of the performance potential offered by Nginx.By covering both early setup stages and advanced topics this book will suit web administrators interested in solutions to optimize their infrastructure, whether they are looking into replacing existing web server software or integrating a new tool cooperating with applications already up and running. If you, your visitors and your operating system have been disappointed by Apache, this book is exactly what you need.",
+                "industryIdentifiers":[
+                    {
+                        "type":"ISBN_13",
+                        "identifier":"9781782162339"
+                    },
+                    {
+                        "type":"ISBN_10",
+                        "identifier":"178216233X"
+                    }
+                ],
+                "readingModes":{
+                    "text":true,
+                    "image":true
+                },
+                "pageCount":318,
+                "printType":"BOOK",
+                "categories":[
+                    "Computers"
+                ],
+                "averageRating":4.5,
+                "ratingsCount":2,
+                "maturityRating":"NOT_MATURE",
+                "allowAnonLogging":true,
+                "contentVersion":"0.1.2.0.preview.3",
+                "panelizationSummary":{
+                    "containsEpubBubbles":false,
+                    "containsImageBubbles":false
+                },
+                "imageLinks":{
+                    "smallThumbnail":"http://books.google.com/books/content?id=9-RlVK5iX60C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail":"http://books.google.com/books/content?id=9-RlVK5iX60C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language":"en",
+                "previewLink":"http://books.google.ae/books?id=9-RlVK5iX60C&pg=PT507&dq=%7Bhttp%7D&hl=&cd=10&source=gbs_api",
+                "infoLink":"https://play.google.com/store/books/details?id=9-RlVK5iX60C&source=gbs_api",
+                "canonicalVolumeLink":"https://play.google.com/store/books/details?id=9-RlVK5iX60C"
+            },
+            "saleInfo":{
+                "country":"AE",
+                "saleability":"FOR_SALE",
+                "isEbook":true,
+                "listPrice":{
+                    "amount":104.09,
+                    "currencyCode":"AED"
+                },
+                "retailPrice":{
+                    "amount":104.09,
+                    "currencyCode":"AED"
+                },
+                "buyLink":"https://play.google.com/store/books/details?id=9-RlVK5iX60C&rdid=book-9-RlVK5iX60C&rdot=1&source=gbs_api",
+                "offers":[
+                    {
+                        "finskyOfferType":1,
+                        "listPrice":{
+                            "amountInMicros":104090000,
+                            "currencyCode":"AED"
+                        },
+                        "retailPrice":{
+                            "amountInMicros":104090000,
+                            "currencyCode":"AED"
+                        }
+                    }
+                ]
+            },
+            "accessInfo":{
+                "country":"AE",
+                "viewability":"PARTIAL",
+                "embeddable":true,
+                "publicDomain":false,
+                "textToSpeechPermission":"ALLOWED",
+                "epub":{
+                    "isAvailable":true
+                },
+                "pdf":{
+                    "isAvailable":true
+                },
+                "webReaderLink":"http://play.google.com/books/reader?id=9-RlVK5iX60C&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus":"SAMPLE",
+                "quoteSharingAllowed":false
+            },
+            "searchInfo":{
+                "textSnippet":"DAV / DAV* Degradation / Degradation* Empty GIF/ Empty GIF Events / Events <br>
+FastCGI /FastCGI FLV / FLV* Geo / Geo Geo IP / GeoIP* Googleperftools / <br>
+Googleperftools* Gzip / Gzip Gzip Static/GzipStatic* Headers / Headers <b>HTTP</b> <br>
+Core ..."
+            }
+        }
+    ]
 }
